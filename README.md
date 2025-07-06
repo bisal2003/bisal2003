@@ -11,9 +11,6 @@ Welcome to my GitHub profile! I'm a passionate learner, coder, and explorer in t
 
 ---
 
-> ✨ *This is a special repository because its `README.md` appears on my GitHub profile. Feel free to explore my repositories and connect with me — together, we can make tech awesome!*  
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bisal2003&show_icons=true&theme=tokyonight" alt="bisal2003 stats" />
