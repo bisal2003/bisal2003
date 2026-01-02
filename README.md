@@ -1,21 +1,46 @@
-# Hi there, I’m Bisal Prasad 👋
-
-Welcome to my GitHub profile! I'm a passionate learner, coder, and explorer in the world of technology.  
-
-- 👀 **Interests:** Exploring new technologies, solving challenging problems, and building impactful solutions.  
-- 🌱 **Currently Learning:** Machine Learning (ML) and Web Development.  
-- 💡 **Open to Collaborate:** Excited to contribute to open-source projects, hackathons, and innovative ideas — let's build something meaningful together!  
-- 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/bisal-prasad/) | [Email](mailto:bisalprasad2003@gmail.com) 
-- 😄 **Pronouns:** He/Him  
-- ⚡ **Fun Fact:** I love to break down complex concepts into simple ideas, and I'm always on a quest to level up my skills.  
+<h1 align="center">Hi 👋, I'm Bisal Prasad</h1>
+<h3 align="center">ECE Student | Web & ML Enthusiast | Builder & Problem Solver</h3>
 
 ---
 
+### 🚀 About Me
+- 👨‍🎓 B-Tech ECE Student at NIT Silchar  
+- 🌱 Learning **Machine Learning & Web Development**  
+- 🤝 Open to **collaborations, projects & hackathons**  
+- 💡 I enjoy turning ideas into real-world solutions  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bisal2003&show_icons=true&theme=tokyonight" alt="bisal2003 stats" />
+---
+
+### 📬 Connect With Me
+<p>
+<a href="https://www.linkedin.com/in/bisal-prasad/">
+  <img src="https://img.shields.io/badge/LinkedIn-Bisal%20Prasad-blue?style=for-the-badge">
+</a>
+<a href="mailto:bisalprasad2003@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
+</a>
 </p>
 
+---
+
+### 🛠️ Tech Stack
+- 💻 C | C++ | Python  
+- 🌐 HTML | CSS | JavaScript  
+- ⚙️ Git | GitHub | Linux Basics  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bisal2003&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bisal2003&theme=tokyonight" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+I love simplifying complex ideas and constantly improving my skills.
 
 <!---
 bisal2003/bisal2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
