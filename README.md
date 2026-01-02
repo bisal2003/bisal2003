@@ -41,8 +41,3 @@
 
 ### ⚡ Fun Fact
 I love simplifying complex ideas and constantly improving my skills.
-
-<!---
-bisal2003/bisal2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
